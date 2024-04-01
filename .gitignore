@@ -1,2 +1,7 @@
 .ipynb_checkpoints/
 env/
+# Exclude EspooRHDataAnalysisFromCSV files and folders
+Projects/EspooRHDataAnalysisFromCSV/exrc-02-answer.txt
+Projects/EspooRHDataAnalysisFromCSV/exrc-02-handin.ipynb
+Projects/EspooRHDataAnalysisFromCSV/README.md
+
