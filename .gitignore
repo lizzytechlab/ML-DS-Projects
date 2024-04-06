@@ -16,6 +16,10 @@ Projects/EspooGPGWeatherDataEncrypted/exrc-04-report.ipynb
 #Due to large data files exclude data folder which containg all large data files
 Projects/BulldozerPricePrediction_ML/data/
 
+#Do not include this zip file which is going to be uploaded in through GitHub
+Projects/BulldozerPricePrediction_ML/data/bluebook-for-bulldozers.zip
+
+
 
 
 
