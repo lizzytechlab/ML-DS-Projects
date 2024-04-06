@@ -13,5 +13,9 @@ Projects/EspooGPGWeatherDataEncrypted/README.md
 Projects/EspooGPGWeatherDataEncrypted/EspooGPGWeatherDataEncrypted_origin.ipynb
 Projects/EspooGPGWeatherDataEncrypted/exrc-04-report.ipynb
 
+#Due to large data files exclude data folder which containg all large data files
+Projects/BulldozerPricePrediction_ML/data/
+
+
 
 
